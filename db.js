@@ -2,7 +2,7 @@
 * @package   Social Magazine
 * @author    Arnaldo Baumanis
 * @copyright 2019
-* @license   http://www.gnu.org/licenses/gpl.html GNU/GPL
+* @license   This project is licensed under the MIT License
 */
 
 const dotenv = require('dotenv');

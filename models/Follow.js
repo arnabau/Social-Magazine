@@ -1,3 +1,11 @@
+/***********************************************************
+* @package   Social Magazine
+* @author    Arnaldo Baumanis
+* @copyright 2019
+* @license   This project is licensed under the MIT License
+************************************************************/
+
+
 const usersCollection = require('../db').db().collection('users');
 const followsCollection = require('../db').db().collection('follows');
 const ObjectID = require('mongodb').ObjectID;
