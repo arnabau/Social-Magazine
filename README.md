@@ -2,6 +2,8 @@
 
 A Full Stack app with JavaScript, Node.js, Express, MongoDB and a few npm's packages.
 
+MVC Pattern + OOP
+
 * Implement user registration, log-in, log-out and user generated content like posts (CRUD).
 * Implement Live search
 * Letting users follow each others
