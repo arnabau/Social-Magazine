@@ -10,6 +10,7 @@ A Full Stack "Social Magazine" with JavaScript, Node.js, Express, MongoDB and a 
 Note: The .env file must be setup
 
 CONNECTIONSTRING=mongodb+srv://YOURUSERHERE:YOURPASSWORDHERE@YOURCLUSTERCONFIGHERE.mongodb.net/APPNAME?retryWrites=true&w=majority
+
 PORT=3000
 APP_NAME=YOUR APP NAME
 JWTSECRET=YOURRANDOMSUPERSECRET
